@@ -1,0 +1,28 @@
+title: WP Invoice
+description: Adds robust billing and invoicing functionality to your WordPress site. You can easily create, edit, and send customized and itemized invoices to your customers without leaving your WordPress control panel.
+logo_image: https://storage.googleapis.com/media.usabilitydynamics.com/2014/11/e5113fed-wpinvoice-plugin-icon-300x300.png
+
+exclude:
+  - node_modules
+  - package.json
+  - .idea
+  - workspace.xml
+
+sass:
+  style: :compressed
+  sass_dir: _sass
+  load_paths:
+    - node_modules
+    - node_modules/**/*/node_modules
+
+defaults:
+  - scope:
+      path: "addons"
+    values:
+      layout: addons
+  - scope:
+      path: "docs"
+    values:
+      layout: docs
+
+branch: master
