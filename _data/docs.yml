@@ -1,2 +1,40 @@
 Intro:
   - docs/index.md
+  - docs/installing.md
+  - docs/widgets.md
+  - docs/shortcodes.md
+  - docs/installing-wp-invoice-add-ons.md
+Get Started:
+  - docs/unified-client-dashboard.md
+  - docs/wp-invoice-settings-main-tab.md
+  - docs/wp-invoice-settings-business-process-tab.md
+  - docs/wp-invoice-settings-payment-tab.md
+  - docs/wp-invoice-settings-e-mail-templates-tab.md
+  - docs/wp-invoice-settings-line-items-tab.md
+The Invoicing Process:
+  - docs/creating-an-invoice-in-wp-invoice-plugin.md
+  - docs/editing-an-invoice-in-wp-invoice-plugin.md
+  - docs/billing-with-wp-invoice.md
+  - docs/setting-up-recurring-billing-in-wp-invoice-plugin.md
+  - docs/global-or-specific-invoice-payment-settings-in-wp-invoice-plugin.md
+  - docs/wp-invoice-and-wp-crm-integration.md
+Payment Gateway Settings:
+  - docs/paypal-payment-settings-in-wp-invoice-plugin.md
+  - docs/merchantplus-and-other-authorize-gateways-in-wp-invoice-plugin.md
+Extending:
+  - docs/translating.md
+  - docs/api.md
+FAQ:
+  - docs/licence-key-not-activating.md
+  - docs/could-not-do-a-request-to-usabilitydynamics.com-while-activating-add-on.md
+  - docs/updating-of-wp-invoice-causes-the-wp-admin-to-be-stuck-on-the-usability-dynamics-info-screen.md
+  - docs/How-to-create-custom-template-for-invoice-page-in-WP-Invoice-plugin <------- !!!
+  - docs/plugin-throws-404-403-500-error-after-save-setting-in-wp-invoice-plugin.md
+  - docs/paypal-username-and-sandbox-error-in-wp-invoice-plugin.md
+  - docs/quotes-response-form-do-not-appear-in-wp-invoice-plugin.md
+  - docs/wp-invoice-plugin-just-shortcode-on-the-page.md
+  - docs/paypal-invoice-is-not-updated-with-paid-status-in-wp-invoice-plugin.md
+  - docs/wp-invoice-paypal-partial-payment-reporting-that-invoice-already-paid.md
+  - docs/page-not-found-404-error-when-trying-to-view-invoice-in-wp-invoice-plugin.md
+  - docs/empty-blank-invoice-page-or-just-wp-invoice-instead-of-invoice-in-wp-invoice-plugin.md
+  - docs/redirection-loop-on-single-invoice-page-in-wp-invoice-plugin.md
