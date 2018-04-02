@@ -3,11 +3,41 @@ irb:
     - addons/irb/index.md
     - addons/irb/installation.md
     - addons/irb/translating.md
+business-locations:
+  Intro:
+    - addons/business-locations/index.md
+    - addons/business-locations/installation.md
+    - addons/business-locations/translating.md
+electronic-signature:
+  Intro:
+    - addons/electronic-signature/index.md
+    - addons/electronic-signature/installation.md
+    - addons/electronic-signature/translating.md
+mijireh-checkout:
+  Intro:
+    - addons/mijireh-checkout/index.md
+    - addons/mijireh-checkout/installation.md
+    - addons/mijireh-checkout/translating.md
+paypal-pro:
+  Intro:
+    - addons/paypal-pro/index.md
+    - addons/paypal-pro/installation.md
+    - addons/paypal-pro/translating.md
+pdf:
+  Intro:
+    - addons/pdf/index.md
+    - addons/pdf/installation.md
+    - addons/pdf/translating.md
 power-tools:
   Intro:
     - addons/power-tools/index.md
     - addons/power-tools/installation.md
     - addons/power-tools/translating.md
+quotes:
+  Intro:
+    - addons/quotes/index.md
+    - addons/quotes/installation.md
+    - addons/quotes/translating.md
 spc:
   Intro:
     - addons/spc/index.md
@@ -16,3 +46,8 @@ spc:
     - addons/spc/developer-tips.md
   FAQ:
     - addons/spc/redirection-loop-on-spc.md
+usa-epay:
+  Intro:
+    - addons/usa-epay/index.md
+    - addons/usa-epay/installation.md
+    - addons/usa-epay/translating.md
