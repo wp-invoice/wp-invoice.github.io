@@ -1,1 +1,18 @@
-
+irb:
+  Intro:
+    - addons/irb/index.md
+    - addons/irb/installation.md
+    - addons/irb/translating.md
+power-tools:
+  Intro:
+    - addons/power-tools/index.md
+    - addons/power-tools/installation.md
+    - addons/power-tools/translating.md
+spc:
+  Intro:
+    - addons/spc/index.md
+    - addons/spc/installation.md
+    - addons/spc/translating.md
+    - addons/spc/developer-tips.md
+  FAQ:
+    - addons/spc/redirection-loop-on-spc.md
