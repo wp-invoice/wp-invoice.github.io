@@ -26,3 +26,4 @@ defaults:
       layout: docs
 
 branch: master
+theme: jekyll-theme-cayman
