@@ -14,9 +14,9 @@ module_slug: electronic-signature
 4. Name the translated file accordingly: wp-invoice-electronic-signature-DK.po  (if this is for wp-invoice-electronic-signature for dutch translation). Make sure that the abbreviations are correct.
 5. Go into the file and save it again, this will automatically create a "mo" file with the same name.
 
-###Important:  
+### Important:  
 Each translated file should be located in the correct location.
 
-###Example: 
+### Example: 
 If this is WP-Invoice the file should be in wp-invoice/static/languages and if it is for wp-invoice-electronic-signature the file should wp-invoice-electronic-signature/static/languages.   
 
