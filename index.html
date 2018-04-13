@@ -20,58 +20,101 @@ page_class_name: front-page
   </div>
 </section>
 
-<section class="themes-section">
+<section class="features-section products-section">
   <div class="container">
     <div class="row">
-
       <div class="col-10 offset-1 products-section">
-
-        {% for addons_list in site.data.addons %}
-
         <div class="row">
           <div class="col-12">
-            <h2 class="products-section-title">{{ addons_list[0] }}</h2>
+            <h2 class="products-section-title">Features</h2>
             <h3 class="products-section-description"></h3>
           </div>
         </div>
+
         <div class="row justify-content-center">
-          {% for addon_item in addons_list[1] limit:6 %}
-          {% if theme_item.url %}
-          {% assign link = addon_item %}
-          {% else %}
-          {% for doc in site.pages %}
-          {% if doc.path == addon_item %}
-          {% assign link = doc %}
-          {% break %}
-          {% endif %}
-          {% endfor %}
-          {% endif %}
-          <div class="col-4 product-item">
+
+          <div class="col-4 featured-item">
             <div class="card h-100 product-content">
-              <div class="product-image">
-                <a href="{{ link.url }}" alt="{{ link.title }}">
-                  <img src="{{ link.image }}" alt="{{ link.title }}"/>
-                </a>
-              </div>
-              <h3 class="product-title">{{ link.title }}</h3>
-              <div class="product-description">{{ link.description }}</div>
-              <div class="product-more">
-                <a href="{{ link.url }}">Read more</a>
+              <h3 class="product-title">Various Payment gateways</h3>
+              <div class="product-description">
+                MerchantPlus.com and other Authorize.net Gateways, PayPal, Stripe, InterKassa, 2Checkout, PayPal Pro, USA ePay, Mijireh Checkout
               </div>
             </div>
           </div>
-          {% endfor %}
-
-        </div>
-
-        {% endfor %}
-
-        <div class="row">
-          <div class="col more-button-col">
-            <a class="more-addons-button" href="/addons/">See more addons</a>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Send notifications</h3>
+              <div class="product-description">
+                Send notifications to customers with a secured link back to the web invoice. Reminders and customizable invoice and receipt templates.
+              </div>
+            </div>
           </div>
-        </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Manage your business locations</h3>
+              <div class="product-description">
+                Create as many locations as needed. Use specific location for each invoice you send to your clients.
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Download PDF</h3>
+              <div class="product-description">
+                Easily generate PDF versions of your invoices, receipts and quotes. The generated files can be displayed as links on the secure invoice pages. Choose from four unique PDF layouts
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Create checkout forms</h3>
+              <div class="product-description">
+                Create stand-alone checkout forms on your site. That form can contain a list of Predefined Line Items of your choice, or open items (custom amount entry). Processed payments are visible on the WP-Invoice overview screen on the back-end, alongside regular invoices
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Send Quotes</h3>
+              <div class="product-description">
+                With the Quotes invoice, we have implemented a comment system with which, your client can leave questions/comments to you and you can reply to them until everyone is happy
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Export/Import Invoices</h3>
+              <div class="product-description">
+                Export your invoices in the XML and JSON formats and import data from other WP-Invoice installations
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Sales Visualization</h3>
+              <div class="product-description">
+                Provides a graphic visualization of your sales, filtered by day, week or month
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Option to sign invoices</h3>
+              <div class="product-description">
+                Get a signature from a client who pays your invoices: you ask for a full name and to write a signature before clicking Pay button
+              </div>
+            </div>
+          </div>
+          <div class="col-4 featured-item">
+            <div class="card h-100 product-content">
+              <h3 class="product-title">Use Internal recurring billing</h3>
+              <div class="product-description">
+                This looks like a regular invoice, but it is sending automatically via WP-Invoice each set period
+              </div>
+            </div>
+          </div>
 
+        </div>
       </div>
     </div>
   </div>
