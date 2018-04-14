@@ -24,7 +24,7 @@ Here’s that area filled in:
 
 ![](https://storage.googleapis.com/media.usabilitydynamics.com/Screen-Shot-2011-12-13-at-6.37.03-PM.png)
 
-Now we are ready to add our line items. We can either create new line items or use predefined (default) line items that we have created in the **Predefined Line Items** tab of the WP-Invoice settings screen. To learn how to create Predefined Line Items please visit the [Predefined Line Items settings page](https://github.com/wp-invoice/wp-invoice/wiki/Line-Items-Tab) on our documentation.
+Now we are ready to add our line items. We can either create new line items or use predefined (default) line items that we have created in the **Predefined Line Items** tab of the WP-Invoice settings screen. To learn how to create Predefined Line Items please visit the [Predefined Line Items settings page](https://wp-invoice.github.io/docs/wp-invoice-settings-line-items-tab/) on our documentation.
 
 * * *
 
@@ -78,7 +78,7 @@ To delete a line item just click on the red icon on the left of the title field.
 
 ## Using Predefined Line Items
 
-If we have created Predefined Line Items via the WP-Invoice Settings [Predefined Line Items tab](https://github.com/wp-invoice/wp-invoice/wiki/Line-Items-Tab) and we want to use them in our invoice, we can select them from the Invoice Line Items area. These items will appear normally on the list and you can still edit their name, description, quantity and price. To add a predefined line item to our invoice we click on the “Insert a predefined line item” drop-down, which is located between the “Add Line” and “Add Discount” buttons.
+If we have created Predefined Line Items via the WP-Invoice Settings [Predefined Line Items tab](https://wp-invoice.github.io/docs/wp-invoice-settings-line-items-tab/) and we want to use them in our invoice, we can select them from the Invoice Line Items area. These items will appear normally on the list and you can still edit their name, description, quantity and price. To add a predefined line item to our invoice we click on the “Insert a predefined line item” drop-down, which is located between the “Add Line” and “Add Discount” buttons.
 
 ![](https://storage.googleapis.com/media.usabilitydynamics.com/predefineddropdown.jpg)
 
@@ -96,15 +96,15 @@ Now we just have to click on the predefined line item of our choice and if we wa
 
 ## Payment Settings
 
-Underneath the Line Items section, there is the Payment Settings section, where you can set the default payment method and other payment options **for this particular invoice**. The default options here will depend on the ones we have set on [the Payments tab](https://github.com/wp-invoice/wp-invoice/wiki/Payment-tab) under WP-Invoice settings. As every client is different and needs to be treated specially though, you can still change these settings for the invoice you’re working on. Here is the Payment Settings area:
+Underneath the Line Items section, there is the Payment Settings section, where you can set the default payment method and other payment options **for this particular invoice**. The default options here will depend on the ones we have set on [the Payments tab](https://wp-invoice.github.io/docs/wp-invoice-settings-payment-tab/) under WP-Invoice settings. As every client is different and needs to be treated specially though, you can still change these settings for the invoice you’re working on. Here is the Payment Settings area:
 
 ![](https://storage.googleapis.com/media.usabilitydynamics.com/2015/06/0826ee61-payment-settings-single-page.png)
 
 Here we see the following fields:
 
-*   **Default Payment Option:** This drop-down sets the default payment method for the invoice. The default payment method that appears is the one we have set on the [Payment settings tab](https://github.com/wp-invoice/wp-invoice/wiki/Payment-tab). We can change that for our invoice to whatever method we wish to use, **as long as we have enabled it first**.
+*   **Default Payment Option:** This drop-down sets the default payment method for the invoice. The default payment method that appears is the one we have set on the [Payment settings tab](https://wp-invoice.github.io/docs/wp-invoice-settings-payment-tab/). We can change that for our invoice to whatever method we wish to use, **as long as we have enabled it first**.
 *   **Client can change payment method:** This checkbox enables the **Accepted Payment area** that you see on the screenshot above. If checked, we can give our client more payment options, selectable on the Accepted Payments area.
-*   **Toggle Advanced Payment Options:** By clicking this, the payment gateway settings fields that we can find in the [payment settings tab](https://github.com/wp-invoice/wp-invoice/wiki/Payment-tab) will appear here as well to change at will. Note that **the default settings will not change**. A field to change the currency for this invoice will appear too.
+*   **Toggle Advanced Payment Options:** By clicking this, the payment gateway settings fields that we can find in the [payment settings tab](https://wp-invoice.github.io/docs/wp-invoice-settings-payment-tab/) will appear here as well to change at will. Note that **the default settings will not change**. A field to change the currency for this invoice will appear too.
 
 ![](https://storage.googleapis.com/media.usabilitydynamics.com/notification.png)
 
@@ -112,11 +112,11 @@ Here we see the following fields:
 
 ## Adding Client Information
 
-On the right sidebar of the edit invoice window you will notice a metabox with the client information. If the client you are invoicing did not exist (you have not invoiced him or he doesn’t exist in the [WP-CRM system] (https://github.com/wp-crm/wp-crm/wiki), the fields in that metabox will be empty:
+On the right sidebar of the edit invoice window you will notice a metabox with the client information. If the client you are invoicing did not exist (you have not invoiced him or he doesn’t exist in the [WP-CRM system](https://wp-crm.github.io/docs/), the fields in that metabox will be empty:
 
 [![The user info metabox, empty](https://storage.googleapis.com/media.usabilitydynamics.com/userinfoe.png)](https://storage.googleapis.com/media.usabilitydynamics.com/userinfoe.png)
 
-If it’s empty, what we should do is to enter our client’s information. The information set here will appear on the [PDF version of the invoice](https://github.com/wp-invoice/wp-invoice-pdf/wiki). When we’re done we should have something like this:
+If it’s empty, what we should do is to enter our client’s information. The information set here will appear on the [PDF version of the invoice](https://wp-invoice.github.io/addons/pdf/). When we’re done we should have something like this:
 
 [![The user info metabox, full](https://storage.googleapis.com/media.usabilitydynamics.com/userinfofilled.png)](https://storage.googleapis.com/media.usabilitydynamics.com/userinfofilled.png)
 

@@ -30,8 +30,8 @@ If set to yes, the client will be able to choose from the enabled payment method
 
 Choose which payment getaways you want to set up on your site.
 
-*   **MerchantPlus.com and other Authorize.net Gateways:** See how to set up [here](https://github.com/wp-invoice/wp-invoice/wiki/MerchantPlus.com-and-Other-Authorize.net-Gateways).
-*   **PayPal:** See how to set up [here](https://github.com/wp-invoice/wp-invoice/wiki/PayPal).
+*   **MerchantPlus.com and other Authorize.net Gateways:** See how to set up [here](https://wp-invoice.github.io/docs/merchantplus-and-other-authorize-gateways-in-wp-invoice-plugin/).
+*   **PayPal:** See how to set up [here](https://wp-invoice.github.io/docs/paypal-payment-settings-in-wp-invoice-plugin/).
 *   **Stripe**
 *   **InterKassa**
 *   **2Checkout**

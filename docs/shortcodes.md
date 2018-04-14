@@ -20,4 +20,4 @@ Does the same as Invoice History widget.
 
 ---
 
-See [widgets documentation](https://github.com/wp-invoice/wp-invoice/wiki/WP-Invoice-Widgets).
+See [widgets documentation](https://wp-invoice.github.io/docs/widgets/).

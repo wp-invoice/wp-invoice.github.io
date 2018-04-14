@@ -19,7 +19,7 @@ The Single Page Checkout form works with the `[wpi_checkout]` shortcode. It can 
 
 ### Creating Predefined Line Items
 
-Single Page Checkout forms can consist of (but are not limited to) Predefined Line Items, which are default products or services than you create once and can use multiple times in SPC lists or invoices. Consider them as your most common products / services for invoicing or Single Page Checkout forms. We will not cover the specifics on Predefined Line Items here, you can see the complete guide on the [help page for Predefined Line Items](https://github.com/wp-invoice/wp-invoice/wiki/Line-Items-Tab), where you can see examples and understand them better.
+Single Page Checkout forms can consist of (but are not limited to) Predefined Line Items, which are default products or services than you create once and can use multiple times in SPC lists or invoices. Consider them as your most common products / services for invoicing or Single Page Checkout forms. We will not cover the specifics on Predefined Line Items here, you can see the complete guide on the [help page for Predefined Line Items](https://wp-invoice.github.io/docs/wp-invoice-settings-line-items-tab/), where you can see examples and understand them better.
 
 ![](https://storage.googleapis.com/media.usabilitydynamics.com/designer.png)
 
@@ -79,7 +79,7 @@ We are done! All you need to do now is create a new page (or use an existing one
 
 ### Shortcode Cheatsheet
 
-*   **item** _(required)_: A comma-separated list of Predefined Line Item names (or a single one). Attention: If you are using Predefined Line Items, the item names on the list must appear exactly as they appear on [the Predefined Line Items tab](https://github.com/wp-invoice/wp-invoice/wiki/Line-Items-Tab) (spaces and everything).
+*   **item** _(required)_: A comma-separated list of Predefined Line Item names (or a single one). Attention: If you are using Predefined Line Items, the item names on the list must appear exactly as they appear on [the Predefined Line Items tab](https://wp-invoice.github.io/docs/wp-invoice-settings-line-items-tab/) (spaces and everything).
 *   **custom_amount** _(not required)_: A “true” or “false” value to set if the amount field will be open on the form (clients will be able to set their payment amount).
 *   **customer_information** _(not required)_: Fields you may want to add to the form. They will be saved as invoice meta data. SPC will add additional fields into the invoice after the payment is complete, with the values the user entered during the checkout process.
 *   **terms_page_id** _(not required)_: If you want to make users to agree with some ‘Terms and Conditions’ before buying, you should add this attribute and insert your Terms and Conditions page ID. After that, a checkbox to make the user agree with your terms will appear on the front-end.

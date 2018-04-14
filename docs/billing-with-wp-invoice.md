@@ -4,7 +4,7 @@ sidebar_title: Billing with WP Invoice
 permalink: /docs/billing-with-wp-invoice/
 ---
 
-We already learned how to [create](https://github.com/wp-invoice/wp-invoice/wiki/creating-an-invoice) and [edit](https://github.com/wp-invoice/wp-invoice/wiki/editing-an-invoice) an invoice. Where do we go from here? WP-Invoice gives us ways to notify the client, add charges and fees to the invoice, and see the complete history of the invoice (very useful if we are in a multi-user business and more than one person manage billing). Here some of these advanced settings, all available in the invoice edit page.
+We already learned how to [create](https://wp-invoice.github.io/docs/creating-an-invoice-in-wp-invoice-plugin/) and [edit](https://wp-invoice.github.io/docs/editing-an-invoice-in-wp-invoice-plugin/) an invoice. Where do we go from here? WP-Invoice gives us ways to notify the client, add charges and fees to the invoice, and see the complete history of the invoice (very useful if we are in a multi-user business and more than one person manage billing). Here some of these advanced settings, all available in the invoice edit page.
 
 * * *
 

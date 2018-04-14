@@ -4,7 +4,7 @@ sidebar_title: Line Items Tab
 permalink: /docs/wp-invoice-settings-line-items-tab/
 ---
 
-**Predefined Line Items** are common services and/or products that you can create once and use in your invoices. For example, if you are a Web professional and your usual invoice has at least an hour of Web Design or / and Web Development services, you can create these item entries to save yourself from typing it every time. When you create a new invoice or quote (with the [Quotes Add-on](https://github.com/wp-invoice/wp-invoice-quotes/wiki)), or edit an existing one, you will be able to select these items from a list and if you want, edit the name, description, quantity, price and tax.
+**Predefined Line Items** are common services and/or products that you can create once and use in your invoices. For example, if you are a Web professional and your usual invoice has at least an hour of Web Design or / and Web Development services, you can create these item entries to save yourself from typing it every time. When you create a new invoice or quote (with the [Quotes Add-on](https://wp-invoice.github.io/addons/quotes/)), or edit an existing one, you will be able to select these items from a list and if you want, edit the name, description, quantity, price and tax.
 
 * * *
 
