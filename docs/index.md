@@ -12,14 +12,14 @@ How it works: you create an invoice from your WordPress installation’s admin s
 
 ### Available Payment Gateways
 
-* [MerchantPlus.com and other Authorize.net Gateways.](https://www.usabilitydynamics.com/product/wp-invoice/docs/merchantplus-and-other-authorize-gateways-in-wp-invoice-plugin)
-* [PayPal. ](https://www.usabilitydynamics.com/product/wp-invoice/docs/paypal-payment-settings-in-wp-invoice-plugin)
+* [MerchantPlus.com and other Authorize.net Gateways.](https://wp-invoice.github.io/docs/merchantplus-and-other-authorize-gateways-in-wp-invoice-plugin/)
+* [PayPal. ](https://wp-invoice.github.io/docs/paypal-payment-settings-in-wp-invoice-plugin/)
 * Stripe
 * InterKassa (Eastern Europe)
 * 2Checkout
-* [PayPal Pro ( Free Add-on)](https://www.usabilitydynamics.com/product/wp-invoice-paypal-pro)
-* [USA ePay (Free Add-on)](https://www.usabilitydynamics.com/product/wp-invoice-usa-epay)
-* [Mijireh Checkout (Free Add-on) ](https://www.usabilitydynamics.com/product/wp-invoice-mijireh-checkout)Supports for over [80 payment gateways.](https://cloudswipe.com/gateways/)
+* [PayPal Pro ( Free Add-on)](https://wp-invoice.github.io/addons/paypal-pro/)
+* [USA ePay (Free Add-on)](https://wp-invoice.github.io/addons/usa-epay/)
+* [Mijireh Checkout (Free Add-on) ](https://wp-invoice.github.io/addons/mijireh-checkout/)Supports for over [80 payment gateways.](https://cloudswipe.com/gateways/)
 
 ---
 
@@ -45,8 +45,8 @@ How it works: you create an invoice from your WordPress installation’s admin s
 
 ### Other Features
 
-* Manage your business locations. [Business Location free add-on.](https://www.usabilitydynamics.com/product/wp-invoice-business-locations)
-* [WP-CRM](https://www.usabilitydynamics.com/product/wp-crm) Plugin's Integration.
+* Manage your business locations. [Business Location free add-on.](https://wp-invoice.github.io/addons/business-locations/)
+* [WP-CRM](https://wp-crm.github.io/docs/) Plugin's Integration.
 * Partial Payments with a minimum amount.
 * Receipt Page with Invoice Log.
 * Pre-defined Line Items.
@@ -68,13 +68,13 @@ How it works: you create an invoice from your WordPress installation’s admin s
 ### Add-Ons
 There are many extensions and advanced functionality available using our add-ons.
 
-* Download PDF. [PDF add-on.](https://www.usabilitydynamics.com/product/wp-invoice-pdf)
-* Create checkout forms. [Single Page Checkout add-on.](https://www.usabilitydynamics.com/product/wp-invoice-single-page-checkout)
-* Send Quotes. [Quotes add-on.](https://www.usabilitydynamics.com/product/wp-invoice-quotes)
-* Export/Import Invoices. [Power Tools Add-on.](https://www.usabilitydynamics.com/product/wp-invoice-power-tools)
-* Sales Visualization. [Power Tools Add-on.](https://www.usabilitydynamics.com/product/wp-invoice-power-tools)
-* Option to sign invoices. [Signature Add-on.](https://www.usabilitydynamics.com/product/wp-invoice-electronic-signature)
-* Additional payment gateways. ([PayPal Pro](https://www.usabilitydynamics.com/product/wp-invoice-paypal-pro), [USAePay](https://www.usabilitydynamics.com/product/wp-invoice-usa-epay), [Mijireh Checkout](https://www.usabilitydynamics.com/product/wp-invoice-mijireh-checkout) add-ons.)
+* Download PDF. [PDF add-on.](https://wp-invoice.github.io/addons/pdf/)
+* Create checkout forms. [Single Page Checkout add-on.](https://wp-invoice.github.io/addons/spc/)
+* Send Quotes. [Quotes add-on.](https://wp-invoice.github.io/addons/quotes/)
+* Export/Import Invoices. [Power Tools Add-on.](https://wp-invoice.github.io/addons/power-tools/)
+* Sales Visualization. [Power Tools Add-on.](https://wp-invoice.github.io/addons/power-tools/)
+* Option to sign invoices. [Signature Add-on.](https://wp-invoice.github.io/addons/electronic-signature/)
+* Additional payment gateways. ([PayPal Pro](https://wp-invoice.github.io/addons/paypal-pro/), [USAePay](https://wp-invoice.github.io/addons/usa-epay/), [Mijireh Checkout](https://wp-invoice.github.io/addons/mijireh-checkout/) add-ons.)
 
-Visit https://www.usabilitydynamics.com/product/wp-invoice/addons to browse and download free add-ons.
+Visit https://wp-invoice.github.io/addons to browse and download free add-ons.
 

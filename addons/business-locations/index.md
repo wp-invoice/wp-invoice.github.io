@@ -19,7 +19,7 @@ Create as much locations as needed with a standard user-friendly interface. Rich
 
 ### Get started
 
-Download and install Add-on like a normal WordPress Plugin. Here is the [Instructions.](https://www.usabilitydynamics.com/docs/products-installation)
+Download and install Add-on like a normal WordPress Plugin. Here is the [Instructions.](https://wp-invoice.github.io/docs/installing/)
 
 Once plugin is installed and activated you'll notice the new menu option:
 

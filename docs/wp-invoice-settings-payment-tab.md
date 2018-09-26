@@ -35,9 +35,9 @@ Choose which payment getaways you want to set up on your site.
 *   **Stripe**
 *   **InterKassa**
 *   **2Checkout**
-*   **[PayPal Pro](https://www.usabilitydynamics.com/product/wp-invoice-paypal-pro)**
-*   **[USA ePay](https://www.usabilitydynamics.com/product/wp-invoice-usa-epay)**
-*   **[Mijireh Checkout](https://www.usabilitydynamics.com/product/wp-invoice-mijireh-checkout)** Supports for over [80 payment gateways](http://www.mijireh.com/docs/payment-gateways/).
+*   **[PayPal Pro](https://wp-invoice.github.io/addons/paypal-pro/)**
+*   **[USA ePay](https://wp-invoice.github.io/addons/usa-epay/)**
+*   **[Mijireh Checkout](https://wp-invoice.github.io/addons/mijireh-checkout/)** Supports for over [80 payment gateways](http://www.mijireh.com/docs/payment-gateways/).
 
 * * *
 

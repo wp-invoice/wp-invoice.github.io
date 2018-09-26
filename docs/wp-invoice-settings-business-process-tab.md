@@ -48,5 +48,5 @@ Here we have options that will create automatic email notifications on successfu
 *   **Send email confirmation to the client.** If checked, WP-Invoice will send a confirmation email to any client who has paid, letting them know that their payment has been processed.
 *   **Send email notification to the address set for administrative purposes from General Settings:** If checked, the address set for administrative purposes on the WordPress General Settings (Settings -> General) will be emailed after a payment has been completed.
 *   **Send email notification to invoice creator.** If checked, the invoice creator will be emailed automatically once a payment has been completed.
-*  **Use [WP-CRM](https://www.usabilitydynamics.com/product/wp-crm) to send notifications** You can visit WP-CRM plugin Notifications tab to adjust email templates.
+*  **Use [WP-CRM](https://wp-crm.github.io/docs/) to send notifications** You can visit WP-CRM plugin Notifications tab to adjust email templates.
 

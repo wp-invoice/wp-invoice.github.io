@@ -9,7 +9,7 @@ module: "WP-Invoice: Mijireh Checkout"
 module_slug: mijireh-checkout
 ---
 
-###Welcome to the WP-Invoice: Mijireh Checkout wiki!
+### Welcome to the WP-Invoice: Mijireh Checkout wiki!
 
 ![payment-gateways-mijireh](https://storage.googleapis.com/media.usabilitydynamics.com/2016/06/efbefe3f-payment-gateways-mijireh-350x180.jpg)
 
@@ -21,11 +21,11 @@ Add-on allows you to extend your WP-Invoice based commercial website giving the 
 
 ### Integrated with another WP-Invoice add-on SPC
 
-[Single Page Checkout (SPC) is Add-on](https://www.usabilitydynamics.com/product/wp-invoice-single-page-checkout) for WP-Invoice makes it easy to create stand-alone checkout forms on your site. That form can contain a list of Predefined Line Items of your choice, or open items (custom amount entry). Other features include processing fee calculation, custom user information capture, multiple items, and more.
+[Single Page Checkout (SPC) is Add-on](https://wp-invoice.github.io/addons/spc/) for WP-Invoice makes it easy to create stand-alone checkout forms on your site. That form can contain a list of Predefined Line Items of your choice, or open items (custom amount entry). Other features include processing fee calculation, custom user information capture, multiple items, and more.
 
 ### Get started – Installation & Setup
 
-How to install the product you can find [here.](https://www.usabilitydynamics.com/docs/products-installation)
+How to install the product you can find [here.](https://wp-invoice.github.io/docs/installing/)
 
 New payment option appears once you install and activate WP-Invoice: Mijireh Checkout add-on in WP-Invoice/Settings/Payments tab:
 
