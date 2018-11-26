@@ -4,7 +4,6 @@ sidebar_title: WP-Invoice and WP-CRM integration
 permalink: /docs/wp-invoice-and-wp-crm-integration/
 ---
 
-# If you are using our Free plug-in WP-Invoice, you can improve and expand your options with another Free plug-in WP-CRM. 
 
 ## There are a few expansions and additions that you might find useful:
 
